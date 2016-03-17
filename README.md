@@ -3,18 +3,19 @@ TCD (v1.3)
 
 This is a toy demo for the unsupervised Temporal Commonality Discovery (TCD) using a branch and bound approach.
 
-**Created**:  Oct-6-2012 by Wen-Sheng Chu (wschu@cmu.edu)  
-**Updated**:  Aug-8-2014 by Wen-Sheng Chu (wschu@cmu.edu)  
-**Citation**: [Unsupervised Temporal Commonality Discovery](http://humansensing.cs.cmu.edu/wschu/papers/doc/eccv12-tcd.pdf), ECCV, 2012.
+**Links**: [paper](https://www.ri.cmu.edu/pub_files/2012/10/tcd_final.pdf) | [poster](http://ochoa.pc.cs.cmu.edu/wschu/papers/doc/eccv10-tcd-poster-low.pdf) |  [slides](http://ochoa.pc.cs.cmu.edu/wschu/papers/doc/eccv12-tcd.pptx)
 
-and/or cite the bibtex
+**Contact**:  Please send comments to Wen-Sheng Chu (wschu@cmu.edu)  
 
-    @inproceedings{chu2012unsupervised,
-        title={Unsupervised temporal commonality discovery},
-        author={Chu, Wen-Sheng and Zhou, Feng and {De la Torre}, Fernando},
-        booktitle={ECCV},
-        year={2012}
-    }
+**Citation**: If you use this code in your paper, please cite:
+```
+@inproceedings{chu2012unsupervised,
+    title={Unsupervised temporal commonality discovery},
+    author={Chu, Wen-Sheng and Zhou, Feng and {De la Torre}, Fernando},
+    booktitle={ECCV},
+    year={2012}
+}
+```
 
 
 Contents
