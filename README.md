@@ -45,6 +45,7 @@ Change Log
 ==========
 
 **Aug-08-2014**
+
     *    Implemented the main TCD routine in C++
     *    The speedup against v1.2 is fascinating and can be found [here](http://humansensing.cs.cmu.edu/wschu/project_tcd.html#FIG_SPEEDUP)
 
